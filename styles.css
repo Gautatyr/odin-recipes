@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana,"Times New Roman", sans-serif;
+}
+ 
+.even{
+    background-color: lightgrey;
+}
+
+.odd{
+    background-color: grey;
+}
+
+ul.even .odd{
+    
+}
+
+body {
+    background-color: lightgray;
+}
