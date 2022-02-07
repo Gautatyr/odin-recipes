@@ -1,5 +1,5 @@
 # odin-recipes
-HTML Recipe Website 
+Very simple HTML Recipe Website 
 
 Author: RIPTheBoss
 
