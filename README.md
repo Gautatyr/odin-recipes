@@ -1,7 +1,7 @@
 # odin-recipes
 Very simple HTML Recipe Website 
 
-Author: RIPTheBoss
+Author: Gautatyr
 
 Desc: 
 Small study projet, simple recipe website made with html and a little bit of css.
